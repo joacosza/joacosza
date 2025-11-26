@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello
+
+I'm Joaquin, an aspiring programmer and game developer. Nice to meet you.
+
+I'm currently learning Python, Javascript, Java and Docker.
 
 <!--
 **joacosza/joacosza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
